@@ -14,6 +14,7 @@ public class Persona {
 		String apellido= entrada.readLine();
 		this.nombre = nombre;
 		this.apellido = apellido;
+		this.nombre2= nombre2;
 	}
 
 
