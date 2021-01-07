@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class Persona {
-	private String nombre, apellido;
+	private String nombre, nombre2, apellido;
 	InputStreamReader isr = new InputStreamReader(System.in);
 	BufferedReader entrada = new BufferedReader(isr);
 	
